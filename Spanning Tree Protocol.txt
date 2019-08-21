@@ -1,0 +1,11 @@
+Spanning Tree Algorithm
+Bridge Protocol Data Units (BPDUs)
+Bridge ID consists of 3 things
+=> Bridge Priority (by default 32768)
+=> Extended System ID (ID identifies VLAN)
+=> MAC Address (Lowest MAC Wins)
+Switch Ports have 4 positions
+Learning, Listening, Blocking, Forwarding
+
+Ethernet Channel
+Link Aggregation
